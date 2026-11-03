@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amen 👋
 
-<!--
-**asalami/asalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product designer with 10+ years of experience shaping digital products and enterprise experiences, currently designing security, privacy, and AI-powered protection experiences at Microsoft.
 
-Here are some ideas to get you started:
+I work at the intersection of **product strategy, human-centered design, AI, and engineering**, translating complex problems into thoughtful, scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm exploring
+
+- **AI-assisted product development** — moving from ideas and prototypes to functional applications.
+- **Design engineering** — bridging interaction design, design systems, and implementation.
+- **Security and trust** — designing experiences that help people make informed decisions and take protective action.
+- **Building products** — exploring how AI can accelerate the journey from concept to launch.
+
+### Currently building
+
+**Repset** — an independent fitness product I'm designing and developing using AI-assisted workflows.
+
+From product strategy and UX to prototyping, implementation, and testing, I'm exploring what it means to take greater ownership of the end-to-end product experience.
+
+*Currently in development. Source code is private.*
