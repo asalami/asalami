@@ -13,10 +13,14 @@ I work at the intersection of **product strategy, human-centered design, AI, and
 
 ### Currently building
 
-**Repset** — an independent fitness product I'm designing and developing using AI-assisted workflows.
+**Repset** — an independent iOS fitness product I'm designing and developing using AI-assisted workflows.
 
 From product strategy and UX to prototyping, implementation, and testing, I'm exploring what it means to take greater ownership of the end-to-end product experience.
 
 *Currently in development. Source code is private.*
+
+### Selected work
+
+My public repositories showcase selected projects and experiments. Additional work, including products in active development, is maintained privately.
 
 Connect with me on LI: www.linkedin.com/in/amenasalami
